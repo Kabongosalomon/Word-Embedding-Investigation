@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/embeddings.png "embeddings"
+[image1]: ./Images/embeddings.png "embeddings"
 
 
 # Project Overview
